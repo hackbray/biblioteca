@@ -1,0 +1,9 @@
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.deps.json
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csproj.CoreCompileInputs.cache
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfoInputs.cache
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.AssemblyInfo.cs
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaDominio\obj\Debug\netcoreapp2.0\BibliotecaDominio.csprojResolveAssemblyReference.cache

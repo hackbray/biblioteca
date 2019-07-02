@@ -1,0 +1,11 @@
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.deps.json
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.dll
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaRepositorio.pdb
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaDominio.dll
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\bin\Debug\netcoreapp2.0\BibliotecaDominio.pdb
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csprojResolveAssemblyReference.cache
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfoInputs.cache
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.AssemblyInfo.cs
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.dll
+C:\Users\hackbray\Documents\Visual Studio 2017\Projects\Biblioteca.net\BibliotecaRepositorio\obj\Debug\netcoreapp2.0\BibliotecaRepositorio.pdb
